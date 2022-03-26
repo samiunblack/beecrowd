@@ -25,3 +25,4 @@
 - 1036 - Bhaskara's Formula
 - 1037 - Interval
 - 1038 - Snack
+- 1040 - Average 3

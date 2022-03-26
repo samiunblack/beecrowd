@@ -11,3 +11,4 @@
 - 1009 - Salary with Bonus
 - 1010 - Simple Calculate
 - 1011 - Sphere
+- 1012 - Area

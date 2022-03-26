@@ -22,3 +22,4 @@
 - 1020 - Age in Days
 - 1021 - Banknotes and Coins
 - 1035 - Selection Test 1
+- 1036 - Bhaskara's Formula

@@ -17,3 +17,4 @@
 - 1015 - Distance Between Two Pointers
 - 1016 - Distance
 - 1017 - Fuel Spent
+- 1018 - Banknotes

@@ -26,3 +26,4 @@
 - 1037 - Interval
 - 1038 - Snack
 - 1040 - Average 3
+- 1041 - Coordinates of a Point
